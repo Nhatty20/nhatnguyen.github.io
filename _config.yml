@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nhat nguyen"
+title                    : "Nhat Nguyen"
 title_separator          : "-"
 name                     : &name "Nhat Nguyen"
 description              : &description "personal description"
