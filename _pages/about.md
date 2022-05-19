@@ -12,7 +12,7 @@ Friendly and energetic young professional seeking a position in IT and willing t
 
 Resume/CV
 ======
-[this repository](files/Nhat Nguyen CV Swiss.pdf)
+[Download Resume US](files/Nhat Nguyen Resume.pdf)
 [Download CV](files/Nhat Nguyen CV Swiss.pdf)
 
 Getting started
